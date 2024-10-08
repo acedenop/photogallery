@@ -5,3 +5,22 @@ body{
     margin: 0;
     padding: 0;
 }
+
+header{
+    background: #ffffff;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav{
+    margin: 20px;
+    text-align: right;
+}
+
+nav a{
+     color: #000000;
+     font-size: 1.5em;
+     text-decoration: none;
+    margin: 0 15px;
+}
