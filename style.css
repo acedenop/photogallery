@@ -153,6 +153,19 @@ button{
     display: block;
 }
 
+#backToTop{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background-color: #007d7b;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+    text-decoration: none;
+}
 footer p{
     text-align: center;
     color: #ffffff;
