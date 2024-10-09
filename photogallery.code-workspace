@@ -1,10 +1,8 @@
 {
 	"folders": [
 		{
+			"name": "photogallery",
 			"path": "."
-		},
-		{
-			"path": "../../../Downloads/images"
 		}
 	],
 	"settings": {}
